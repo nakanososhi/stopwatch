@@ -1,0 +1,22 @@
+#timer {
+  font-size: 60px;
+}
+
+#start {
+  width: 100px;
+  height: 40px;
+}
+
+#stop {
+   width: 100px;
+  height: 40px;
+}
+
+#reset {
+   width: 100px;
+  height: 40px;
+}
+
+/*.inactive {*/
+    opacity: 0.6;
+}
